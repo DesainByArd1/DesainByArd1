@@ -1,6 +1,6 @@
 <!-- 🎨 Banner / Header -->
 <p align="center">
-  <img src="https://i.ibb.co/2qTY0hL/banner.png" alt="Banner" width="100%">
+  <img src="banner.jpg" alt="Banner" width="100%">
 </p>
 
 <!-- 👋 Introduction -->
