@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm M. Adriansyah</h1>
-<h3 align="center">💻 UI/UX Designer | Frontend Developer | Coding Enthusiast</h3>
+<h3 align="center">🎨 UI/UX Designer | 💻 Frontend Developer | 🌱 Always Learning</h3>
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
 - 🔭 I’m currently working on **Web UI Design & PHP Tailwind Projects**
 - 🌱 I’m learning **JavaScript, React, and Laravel**
-- 👯 I’m open to collaborate on **UI/UX Design or Frontend Projects**
-- ⚡ Fun fact: I love creating clean, modern, and functional designs!
+- 💬 Ask me about **UI Design, Tailwind, or Frontend stuff**
+- ⚡ Fun fact: I love clean design and minimalist code!
 
 ---
 
 ### 🧠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,figma,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,figma,github,vscode" />
 </p>
 
 ---
@@ -33,12 +33,12 @@
 
 ---
 
-### 💬 Connect with me
-<p align="left">
+### 🔗 Connect with me
+<p align="center">
 <a href="https://instagram.com/your_ig" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ From [DesainByArd1](https://github.com/DesainByArd1)
+⭐ From [DesainByArd1](https://github.com/DesainByArd1)
