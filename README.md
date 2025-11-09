@@ -68,7 +68,7 @@ Here are some of my favorite projects 👇
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/your_ig" target="_blank">
+  <a href="https://www.instagram.com/desainbyardi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your_linkedin" target="_blank">
